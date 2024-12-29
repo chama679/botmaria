@@ -6,9 +6,9 @@ global.autoReadGc = true;
 global.autoReadAll = false;
 global.antitags = true;
 
-global.Owner = ["917059114934"];
-global.OwnerNumber = ["917059114934"];
-global.ownertag = ["917059114934"];
+global.Owner = ["levanter_29f4cab2c447bc41139d88dec6dba8b65e "];
+global.OwnerNumber = ["243898671778"];
+global.ownertag = ["chama"];
 global.BotName = "Maria-Md";
 global.OwnerName = "অজয় রায় চৌধুরী🙂";
 global.support = "https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ"
